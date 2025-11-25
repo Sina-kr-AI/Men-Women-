@@ -12,3 +12,8 @@
 
 - Dtasets link: <a href="https://www.kaggle.com/datasets/saadpd/menwomen-classification">Click here</a>
 
+## Challenge
+
+- During training, the model showed signs of **overfitting**.  
+This means the model performed well on the training data but its accuracy on validation/test data decreased.  
+To address this issue, techniques such as data augmentation, dropout, and regularization can be considered in future improvements.
