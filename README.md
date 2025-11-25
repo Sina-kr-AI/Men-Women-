@@ -22,3 +22,5 @@ To address this issue, techniques such as data augmentation, dropout, and regula
 
 - To work with the dataset, we need to create the following structure:
     - <img src='dataset structure.PNG'>
+    - We did this in ``built_data_structure.py``
+
